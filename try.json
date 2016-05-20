@@ -1,0 +1,314 @@
+{
+  'sentences': [
+    {
+      'parse': '(ROOT\n  (ADJP\n    (NP (CD 2) (NN SMRT))\n    (JJ dead)\n    (PP (IN at)\n      (NP\n        (NP (NN accident))\n        (PP (IN near)\n          (NP (NNP Pasir) (NNP Ris) (NN station)))))))',
+      'index': 0,
+      'basic-dependencies': [
+        {
+          'dependentGloss': 'dead',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 3,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': '2',
+          'governor': 2,
+          'governorGloss': 'SMRT',
+          'dependent': 1,
+          'dep': 'nummod'
+        },
+        {
+          'dependentGloss': 'SMRT',
+          'governor': 3,
+          'governorGloss': 'dead',
+          'dependent': 2,
+          'dep': 'nmod:npmod'
+        },
+        {
+          'dependentGloss': 'at',
+          'governor': 5,
+          'governorGloss': 'accident',
+          'dependent': 4,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'accident',
+          'governor': 3,
+          'governorGloss': 'dead',
+          'dependent': 5,
+          'dep': 'nmod'
+        },
+        {
+          'dependentGloss': 'near',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 6,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'Pasir',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 7,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Ris',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 8,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'station',
+          'governor': 5,
+          'governorGloss': 'accident',
+          'dependent': 9,
+          'dep': 'nmod'
+        }
+      ],
+      'collapsed-ccprocessed-dependencies': [
+        {
+          'dependentGloss': 'dead',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 3,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': '2',
+          'governor': 2,
+          'governorGloss': 'SMRT',
+          'dependent': 1,
+          'dep': 'nummod'
+        },
+        {
+          'dependentGloss': 'SMRT',
+          'governor': 3,
+          'governorGloss': 'dead',
+          'dependent': 2,
+          'dep': 'nmod:npmod'
+        },
+        {
+          'dependentGloss': 'at',
+          'governor': 5,
+          'governorGloss': 'accident',
+          'dependent': 4,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'accident',
+          'governor': 3,
+          'governorGloss': 'dead',
+          'dependent': 5,
+          'dep': 'nmod:at'
+        },
+        {
+          'dependentGloss': 'near',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 6,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'Pasir',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 7,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Ris',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 8,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'station',
+          'governor': 5,
+          'governorGloss': 'accident',
+          'dependent': 9,
+          'dep': 'nmod:near'
+        }
+      ],
+      'collapsed-dependencies': [
+        {
+          'dependentGloss': 'dead',
+          'governor': 0,
+          'governorGloss': 'ROOT',
+          'dependent': 3,
+          'dep': 'ROOT'
+        },
+        {
+          'dependentGloss': '2',
+          'governor': 2,
+          'governorGloss': 'SMRT',
+          'dependent': 1,
+          'dep': 'nummod'
+        },
+        {
+          'dependentGloss': 'SMRT',
+          'governor': 3,
+          'governorGloss': 'dead',
+          'dependent': 2,
+          'dep': 'nmod:npmod'
+        },
+        {
+          'dependentGloss': 'at',
+          'governor': 5,
+          'governorGloss': 'accident',
+          'dependent': 4,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'accident',
+          'governor': 3,
+          'governorGloss': 'dead',
+          'dependent': 5,
+          'dep': 'nmod:at'
+        },
+        {
+          'dependentGloss': 'near',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 6,
+          'dep': 'case'
+        },
+        {
+          'dependentGloss': 'Pasir',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 7,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'Ris',
+          'governor': 9,
+          'governorGloss': 'station',
+          'dependent': 8,
+          'dep': 'compound'
+        },
+        {
+          'dependentGloss': 'station',
+          'governor': 5,
+          'governorGloss': 'accident',
+          'dependent': 9,
+          'dep': 'nmod:near'
+        }
+      ],
+      'tokens': [
+        {
+          'characterOffsetEnd': 1,
+          'normalizedNER': '2.0',
+          'after': ' ',
+          'word': '2',
+          'characterOffsetBegin': 0,
+          'index': 1,
+          'pos': 'CD',
+          'ner': 'NUMBER',
+          'originalText': '2',
+          'lemma': '2',
+          'before': ''
+        },
+        {
+          'characterOffsetEnd': 6,
+          'after': ' ',
+          'word': 'SMRT',
+          'characterOffsetBegin': 2,
+          'index': 2,
+          'pos': 'NN',
+          'ner': 'O',
+          'originalText': 'SMRT',
+          'lemma': 'smrt',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 11,
+          'after': ' ',
+          'word': 'dead',
+          'characterOffsetBegin': 7,
+          'index': 3,
+          'pos': 'JJ',
+          'ner': 'O',
+          'originalText': 'dead',
+          'lemma': 'dead',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 14,
+          'after': ' ',
+          'word': 'at',
+          'characterOffsetBegin': 12,
+          'index': 4,
+          'pos': 'IN',
+          'ner': 'O',
+          'originalText': 'at',
+          'lemma': 'at',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 23,
+          'after': ' ',
+          'word': 'accident',
+          'characterOffsetBegin': 15,
+          'index': 5,
+          'pos': 'NN',
+          'ner': 'O',
+          'originalText': 'accident',
+          'lemma': 'accident',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 28,
+          'after': ' ',
+          'word': 'near',
+          'characterOffsetBegin': 24,
+          'index': 6,
+          'pos': 'IN',
+          'ner': 'O',
+          'originalText': 'near',
+          'lemma': 'near',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 34,
+          'after': ' ',
+          'word': 'Pasir',
+          'characterOffsetBegin': 29,
+          'index': 7,
+          'pos': 'NNP',
+          'ner': 'LOCATION',
+          'originalText': 'Pasir',
+          'lemma': 'Pasir',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 38,
+          'after': ' ',
+          'word': 'Ris',
+          'characterOffsetBegin': 35,
+          'index': 8,
+          'pos': 'NNP',
+          'ner': 'LOCATION',
+          'originalText': 'Ris',
+          'lemma': 'Ris',
+          'before': ' '
+        },
+        {
+          'characterOffsetEnd': 46,
+          'after': '',
+          'word': 'station',
+          'characterOffsetBegin': 39,
+          'index': 9,
+          'pos': 'NN',
+          'ner': 'LOCATION',
+          'originalText': 'station',
+          'lemma': 'station',
+          'before': ' '
+        }
+      ]
+    }
+  ]
+}
