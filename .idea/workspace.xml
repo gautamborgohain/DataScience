@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2843f12-a69a-4a77-bfd3-be395b2564d3" name="Default" comment="Added new features">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/gautamborgohain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Kaggle_KobeBryant/.ipynb_checkpoints/Prediction-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Kaggle_KobeBryant/Prediction.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Network Analysis/FlaskApp.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/try.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/vaderSentiment.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/vader_sentiment_lexicon.txt" afterPath="" />
+    <list default="true" id="c2843f12-a69a-4a77-bfd3-be395b2564d3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Neural Networks/LR_1_2_D_Neural_Network.ipynb" afterPath="$PROJECT_DIR$/Neural Networks/LR_1_2_D_Neural_Network.ipynb" />
     </list>
     <ignored path="DataScience.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -467,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1466754278159</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added new features">
+      <created>1466754507407</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1466754507407</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added new features">
+      <created>1466754532788</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1466754532788</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
