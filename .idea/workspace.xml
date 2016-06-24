@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2843f12-a69a-4a77-bfd3-be395b2564d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow_w2v.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SemEval/SemEval evaluation.ipynb" afterPath="" />
+    <list default="true" id="c2843f12-a69a-4a77-bfd3-be395b2564d3" name="Default" comment="Added new features">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/gautamborgohain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Kaggle_KobeBryant/.ipynb_checkpoints/Prediction-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Kaggle_KobeBryant/Prediction.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Network Analysis/FlaskApp.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/try.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/vaderSentiment.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vaderSentiment/vader_sentiment_lexicon.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Neural Networks/LR_1_2_D_Neural_Network.ipynb" afterPath="$PROJECT_DIR$/Neural Networks/LR_1_2_D_Neural_Network.ipynb" />
     </list>
     <ignored path="DataScience.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,44 +32,7 @@
     <favorites_list name="DataScience" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="try.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-              <folding>
-                <element signature="e#281#1827#0" expanded="false" />
-                <element signature="e#1873#3427#0" expanded="false" />
-                <element signature="e#3461#5015#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vaderSentimentTry.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20833333">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tensorflow_w2v.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow_w2v.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,10 +53,12 @@
         <option value="$PROJECT_DIR$/Titanic_Kaggle/InProgres_Titanic_prediction.ipynb" />
         <option value="$PROJECT_DIR$/Titanic_Kaggle/Titanic Exploratory analysis.ipynb" />
         <option value="$PROJECT_DIR$/try.py" />
-        <option value="$PROJECT_DIR$/try.json" />
         <option value="$PROJECT_DIR$/try.ipynb" />
         <option value="$PROJECT_DIR$/tensorflow_w2v.py" />
         <option value="$PROJECT_DIR$/vaderSentimentTry.py" />
+        <option value="$PROJECT_DIR$/vaderSentiment/temp.py" />
+        <option value="$PROJECT_DIR$/sentiment_lexicon.py" />
+        <option value="$PROJECT_DIR$/try.json" />
       </list>
     </option>
   </component>
@@ -120,7 +93,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,42 +111,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataScience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataScience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SemEval" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataScience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataScience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Network Analysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vaderSentiment" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.vaderSentimentTry">
     <configuration default="false" name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -206,7 +156,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataScience" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vaderSentimentTry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -226,6 +176,18 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -344,7 +306,9 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -353,136 +317,170 @@
       <changelist id="c2843f12-a69a-4a77-bfd3-be395b2564d3" name="Default" comment="" />
       <created>1458300921301</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1458300921301</updated>
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1458301741044</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1458301741044</updated>
     </task>
     <task id="LOCAL-00002" summary="updated">
       <created>1458303521731</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1458303521731</updated>
     </task>
     <task id="LOCAL-00003" summary="updated">
       <created>1458303720139</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1458303720139</updated>
     </task>
     <task id="LOCAL-00004" summary="Added feaures and classifier">
       <created>1458322597181</created>
       <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1458322597181</updated>
     </task>
     <task id="LOCAL-00005" summary="Clean the notebook">
       <created>1458357642942</created>
       <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1458357642942</updated>
     </task>
     <task id="LOCAL-00006" summary="Added ROC curve">
       <created>1458365286851</created>
       <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
       <updated>1458365286851</updated>
     </task>
     <task id="LOCAL-00007" summary="Added Cross validation scores">
       <created>1458376300392</created>
       <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
       <updated>1458376300392</updated>
     </task>
     <task id="LOCAL-00008" summary="updates">
       <created>1458625314287</created>
       <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
       <updated>1458625314287</updated>
     </task>
     <task id="LOCAL-00009" summary="Added new features">
       <created>1458965951517</created>
       <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1458965951517</updated>
     </task>
     <task id="LOCAL-00010" summary="Added new features">
       <created>1459590487982</created>
       <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
       <updated>1459590487982</updated>
     </task>
     <task id="LOCAL-00011" summary="Added new features">
       <created>1460045259926</created>
       <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
       <updated>1460045259926</updated>
     </task>
     <task id="LOCAL-00012" summary="Added new features">
       <created>1460045938966</created>
       <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
       <updated>1460045938967</updated>
     </task>
     <task id="LOCAL-00013" summary="Added new features">
       <created>1460047816646</created>
       <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
       <updated>1460047816646</updated>
     </task>
     <task id="LOCAL-00014" summary="Added new features">
       <created>1460048388676</created>
       <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
       <updated>1460048388676</updated>
     </task>
     <task id="LOCAL-00015" summary="Added new features">
       <created>1460052985731</created>
       <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1460052985731</updated>
     </task>
     <task id="LOCAL-00016" summary="Added new features">
       <created>1460420500566</created>
       <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
       <updated>1460420500566</updated>
     </task>
     <task id="LOCAL-00017" summary="Added new features">
       <created>1460421068706</created>
       <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
       <updated>1460421068706</updated>
     </task>
     <task id="LOCAL-00018" summary="Added new features">
       <created>1461648284463</created>
       <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1461648284463</updated>
     </task>
     <task id="LOCAL-00019" summary="Added new features">
       <created>1461649090093</created>
       <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
       <updated>1461649090093</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added new features">
+      <created>1466754237251</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1466754237251</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added new features">
+      <created>1466754278159</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1466754278159</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="840" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12332629" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15010571" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27673796" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275401" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27666667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3275401" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8101604" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -545,212 +543,130 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_w2v.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/sentiment_lexicon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentiment_lexicon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentiment_lexicon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_w2v.py">
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/try.json" />
     <entry file="file://$PROJECT_DIR$/Titanic_Kaggle/Titanic Exploratory analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -786,33 +702,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.json">
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/vaderSentimentTry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="299" column="35" selection-start-line="299" selection-start-column="35" selection-end-line="299" selection-end-column="35" />
-          <folding>
-            <element signature="e#281#1827#0" expanded="false" />
-            <element signature="e#1873#3427#0" expanded="false" />
-            <element signature="e#3461#5015#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_w2v.py">
+    <entry file="file://$PROJECT_DIR$/vaderSentiment/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaderSentimentTry.py">
+    <entry file="file://$PROJECT_DIR$/try.json" />
+    <entry file="file://$PROJECT_DIR$/sentiment_lexicon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20833333">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
